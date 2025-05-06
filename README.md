@@ -14,6 +14,10 @@ You can view my profile and progress on Exercism [here](https://exercism.org/pro
 
 ## Exercises
 
+| Exercise                    | Goals                                                            |
+|-----------------------------|------------------------------------------------------------------|
+| [Hello World](hello-world)  | The classical introductory exercise. Just say "Hello, World!".   |
+
 
 ## 💬 Open to Feedback
 
