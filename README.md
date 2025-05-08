@@ -14,6 +14,7 @@ You can view my profile and progress on Exercism [here](https://exercism.org/pro
 | [Hello World](hello-world)  | The classical introductory exercise. Just say "Hello, World!".   |
 | [Lucian's Luscious Lasagna](lucians-luscious-lasagna)  | While completing Lucian's Luscious Lasagna, you'll learn 1 concept: [Basics](https://exercism.org/tracks/csharp/concepts/basics)   |
 | [Annalyn's Infiltration](annalyns-infiltration) | While completing Annalyn's Infiltration, you'll learn 1 concept: [Booleans](https://exercism.org/tracks/csharp/concepts/booleans) |
+| [Log Levels](log-levels) | While completing Log Levels, you'll learn 1 concept: [Strings](https://exercism.org/tracks/csharp/concepts/strings) |
 
 
 ## 💬 Open to Feedback
